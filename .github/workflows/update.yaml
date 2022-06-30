@@ -2,7 +2,7 @@ name: achievement-collector
 
 on:
   schedule:
-    - cron: '*/1 * * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   block_update:
