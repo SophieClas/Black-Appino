@@ -1,4 +1,3 @@
-# An Automatic Github Pull Shark Achievement Collector
 ## How to use
 
 1. Fork this repo.
